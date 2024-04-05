@@ -1,4 +1,4 @@
-Solution in C to a programming assignment from my Cryptography class - Toy Stream Cipher Implementation
+Solution in C to a programming assignment from my Cryptography class - Toy Stream Cipher Implementation.
 This exercise will put basic cryptographic tools and toy stream cipher that were discussed during the class into action. Specifically, consider the toy stream cipher built from a Pseudo Random Number Generator 
 (PRNG) as described in “Basics.ppt”, Slide 11. In this exercise, we will utilize the deterministic PRNG function ChaCha20 from Libtomcrypt. Moreover, as alluded to in Slide 12, to avoid repeating keys and 
 information leakage, a PRNG must have a “seed”.
